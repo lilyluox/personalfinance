@@ -1,4 +1,6 @@
-## Welcome to Flinn Talk - Personal Finance
+## Welcome to Flinn Talk 2020 - Personal Finance
+
+_Thank you to Stewart Ongchin at Intel_
 
 You can use the [editor on GitHub](https://github.com/lilyluox/personalfinance/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
