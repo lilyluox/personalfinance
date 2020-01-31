@@ -6,6 +6,17 @@ You can use the [editor on GitHub](https://github.com/lilyluox/personalfinance/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[Link](url) and ![Image](src)
+
+
+### In Summary
+
+1. Start early and let your money work for you.
+2. "Comparison is the thief of joy" - don't compare yourself against others.  
+3. Money doesn't solve all problems.
+
+Even if you "fail" at a networth goal, you are better off than if you never tried at all. 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -25,19 +36,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 ```
-
+```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### In Summary
-
-1. Start early and let your money work for you.
-2. "Comparison is the thief of joy" - don't compare yourself against others.  
-3. Money doesn't solve all problems.
-
-Even if you "fail" at a networth goal, you are better off than if you never tried at all. 
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
