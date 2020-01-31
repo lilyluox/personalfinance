@@ -1,6 +1,6 @@
 ## Welcome to Flinn Talk 2020 - Personal Finance
 
-_Thank you to Stewart Ongchin at Intel_
+_Thank you to Stewart Ongchin and "Money Matters" group at at Intel_
 
 You can use the [editor on GitHub](https://github.com/lilyluox/personalfinance/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,13 +15,16 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
+### In Summary
 
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. Start early and let your money work for you.
+2. "Comparison is the thief of joy" - don't compare yourself against others.  
+3. Money doesn't solve all problems. 
+
+Even if you "fail" at a networth goal, you are better off than if you never tried at all. 
 
 **Bold** and _Italic_ and `Code` text
 
