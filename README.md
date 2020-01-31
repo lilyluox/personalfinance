@@ -20,11 +20,8 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Start early and let your money work for you.
-2. "Comparison is the thief of joy" - don't compare yourself against others.  
-3. Money doesn't solve all problems. 
-
-Even if you "fail" at a networth goal, you are better off than if you never tried at all. 
+1. Bulleted list
+2. Numbered list
 
 **Bold** and _Italic_ and `Code` text
 
@@ -33,9 +30,13 @@ Even if you "fail" at a networth goal, you are better off than if you never trie
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### In Summary
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lilyluox/personalfinance/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. Start early and let your money work for you.
+2. "Comparison is the thief of joy" - don't compare yourself against others.  
+3. Money doesn't solve all problems.
+
+Even if you "fail" at a networth goal, you are better off than if you never tried at all. 
 
 ### Support or Contact
 
