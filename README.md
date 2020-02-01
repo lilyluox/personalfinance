@@ -1,13 +1,14 @@
-## Welcome to Flinn Talk 2020 - Personal Finance
+## Welcome to Flinn Hack Day 2020 - Personal Finance
 
 _Thank you to Stewart Ongchin and "Money Matters" group at at Intel_
 
-You can use the [editor on GitHub](https://github.com/lilyluox/personalfinance/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+"I wish I knew this years ago." 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In high school, we learned about compounds in chemistry and derivatives in AP Calculus, but didn't learn about compounding interest or how it grows your networth. In college, (if you studied accounting like me), we learned complex calculations for pensions that companies no longer offer, pensions that we certainly won't be collecting in retirement.  
 
-[Link](url) and ![Image](src)
+I can't say how we got to this state. 
 
+All I can say is that the most useful thing I ever learned was personal finance. 
 
 ### In Summary
 
@@ -16,6 +17,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 3. Money doesn't solve all problems.
 
 Even if you "fail" at a networth goal, you are better off than if you never tried at all. 
+
+### Instructions
+
+You can use the [editor on GitHub](https://github.com/lilyluox/personalfinance/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+[Link](url) and ![Image](src)
 
 ### Markdown
 
