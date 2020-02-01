@@ -30,6 +30,8 @@ _aka Why you should invest & rules of thumb (“rule of 72”)_
 
 The Dream: https://www.youtube.com/watch?v=a2lv_Xl1e4U
 
+![Image](<img src="\lilyluox\personalfinance\PF_1.png">)
+
 
 
 ### Net Worth Life Cycle
