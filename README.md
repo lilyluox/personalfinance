@@ -4,11 +4,43 @@ _Thank you to Stewart Ongchin and "Money Matters" group at at Intel_
 
 "I wish I knew this years ago." 
 
-In high school, we learned about compounds in chemistry and derivatives in AP Calculus, but didn't learn about compounding interest or how it grows your networth. In college, (if you studied accounting like me), we learned complex calculations for pensions that companies no longer offer, pensions that we certainly won't be collecting in retirement.  
+In high school, we learned about compounds in chemistry and derivatives in AP Calculus, but didn't learn about how compound interest grows your networth. In college, (if you studied accounting like me), we learned complex calculations for pensions that companies no longer offer, pensions that we certainly won't be collecting in retirement.  
 
 I can't say how we got to this state. 
 
 All I can say is that the most useful thing I ever learned was personal finance. 
+
+### Good Resources
+
+First, how do you learn this stuff?  If you're lucky, a responsible adult already laid the foundation for your money habits. If you want to learn 
+
+`Learning in person` At Intel, I attended personal finance talks by Stewart Ongchin and participate in our internal "Money Matters" forum. I highly encourage you to seek out similar groups at your workplace. 
+
+`Books` I highly recommend "The Millionaire Next Door" and "The Bogleheads’ Guide to Investing"
+
+`Video Lecture` - JL Collins' “The Simple Path to Wealth” via Talks at Google
+
+`Online forums` Bogleheads.org is a great forum for investing advice and a good complement to the book. 
+
+I also really love Reddit, which has a high ratio of knowledge sharing to paid advertising ratio. A couple forums I like are: r/personalfinance (flowchart), r/financialindependence (build the life you want), r/fireyfemmes (testimony from Black single mom from the hood)
+
+
+### The Basics
+_aka Why you should invest & rules of thumb (“rule of 72”)_
+
+The Dream: https://www.youtube.com/watch?v=a2lv_Xl1e4U
+
+
+
+### Net Worth Life Cycle
+_What is wealth?
+How do you invest? (U.S. Savings Accounts & their tax implications)_
+
+### Life Cycle Part I
+_Debt Elimination & Wealth Accumulation_
+
+### Life Cycle Part II
+_Asset allocation balancing & retirement (“rule of 4%”)_
 
 ### In Summary
 
